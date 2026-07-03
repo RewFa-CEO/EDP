@@ -13,7 +13,7 @@ jobs:
   stale:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/stale@v9
+      - uses: actions/stale@v10
         with:
           # Issue: 60 天无活动标记 stale，再 14 天关闭
           days-before-issue-stale: 60
