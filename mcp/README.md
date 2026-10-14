@@ -145,7 +145,7 @@ The market margin is 5.4%.
 
 ```bash
 # Clone repository
-git clone https://github.com/ai-nurmamat/EDP.git
+git clone https://github.com/RewFa-CEO/EDP.git
 cd EDP/mcp
 
 # Install dependencies
