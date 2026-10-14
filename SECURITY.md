@@ -16,7 +16,7 @@ If you discover a security vulnerability in EDP:
 
 1. **Do NOT open a public GitHub issue.**
 2. Email the maintainer via a private message through
-   [GitHub](https://github.com/ai-nurmamat/EDP), or open a private security
+   [GitHub](https://github.com/RewFa-CEO/EDP), or open a private security
    advisory via GitHub's "Security" → "Advisories" → "Report a vulnerability".
 3. Include a clear description of the issue, reproduction steps, and (if
    possible) a minimal proof of concept.

@@ -55,10 +55,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/ai-nurmamat/EDP"
-Documentation = "https://github.com/ai-nurmamat/EDP#readme"
-Repository = "https://github.com/ai-nurmamat/EDP.git"
-Issues = "https://github.com/ai-nurmamat/EDP/issues"
+Homepage = "https://github.com/RewFa-CEO/EDP"
+Documentation = "https://github.com/RewFa-CEO/EDP#readme"
+Repository = "https://github.com/RewFa-CEO/EDP.git"
+Issues = "https://github.com/RewFa-CEO/EDP/issues"
 
 [tool.setuptools.packages.find]
 where = ["src/python"]
