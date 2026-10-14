@@ -61,11 +61,7 @@ from .calibration import (
     PredictionRecord,
 )
 from .conformal import CalibrationRecord as ConformalCalibrationRecord
-from .conformal import (
-    ConformalConfig,
-    ConformalEngine,
-    PredictionSet,
-)
+from .conformal import ConformalConfig, ConformalEngine, PredictionSet
 from .core import (
     DomainAdapter,
     EventGraph,
