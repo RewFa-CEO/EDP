@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         感谢提议！请先在
-        [Discussions](https://github.com/ai-nurmamat/EDP/discussions)
+        [Discussions](https://github.com/RewFa-CEO/EDP/discussions)
         确认方向后再开 Issue，以避免重复劳动。
 
   - type: textarea

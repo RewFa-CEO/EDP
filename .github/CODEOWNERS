@@ -5,27 +5,27 @@
 # Owners can be @username or @org/team-slug.
 
 # Default owners — everything not matched below
-*                           @ai-nurmamat
+*                           @RewFa-CEO
 
 # Core framework (authoritative V2.0 implementation)
-/src/python/                @ai-nurmamat
-/mcp/                       @ai-nurmamat
+/src/python/                @RewFa-CEO
+/mcp/                       @RewFa-CEO
 
 # Tests & examples
-/tests/                     @ai-nurmamat
-/examples/                  @ai-nurmamat
+/tests/                     @RewFa-CEO
+/examples/                  @RewFa-CEO
 
 # Documentation & governance
-/docs/                      @ai-nurmamat
-/README.md                  @ai-nurmamat
-/CHANGELOG.md               @ai-nurmamat
-/CONTRIBUTING.md            @ai-nurmamat
-/SECURITY.md                @ai-nurmamat
-/.github/                   @ai-nurmamat
+/docs/                      @RewFa-CEO
+/README.md                  @RewFa-CEO
+/CHANGELOG.md               @RewFa-CEO
+/CONTRIBUTING.md            @RewFa-CEO
+/SECURITY.md                @RewFa-CEO
+/.github/                   @RewFa-CEO
 
 # Build & packaging
-/pyproject.toml             @ai-nurmamat
-/package.json               @ai-nurmamat
+/pyproject.toml             @RewFa-CEO
+/package.json               @RewFa-CEO
 
 # Legacy (V1) TypeScript port — frozen, not actively upgraded
-/src/js/                    @ai-nurmamat
+/src/js/                    @RewFa-CEO
