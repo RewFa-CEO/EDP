@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         感谢反馈！EDP 仅供学术研究。如涉及使用提问请移步
-        [Discussions](https://github.com/ai-nurmamat/EDP/discussions)。
+        [Discussions](https://github.com/RewFa-CEO/EDP/discussions)。
 
   - type: textarea
     id: description

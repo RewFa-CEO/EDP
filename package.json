@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ai-nurmamat/EDP.git"
+    "url": "https://github.com/RewFa-CEO/EDP.git"
   },
   "bugs": {
-    "url": "https://github.com/ai-nurmamat/EDP/issues"
+    "url": "https://github.com/RewFa-CEO/EDP/issues"
   },
-  "homepage": "https://github.com/ai-nurmamat/EDP#readme",
+  "homepage": "https://github.com/RewFa-CEO/EDP#readme",
   "devDependencies": {
     "@types/jest": "^29.5.0",
     "@types/node": "^20.0.0",

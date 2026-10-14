@@ -166,7 +166,7 @@ If you use this framework in academic work, please cite:
   title = {EDP: Expectation Domain Perception Method},
   year = {2026},
   version = {2.0.0},
-  url = {https://github.com/ai-nurmamat/EDP}
+  url = {https://github.com/RewFa-CEO/EDP}
 }
 ```
 

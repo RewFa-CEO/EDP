@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💬 Discussions / 使用提问
-    url: https://github.com/ai-nurmamat/EDP/discussions
+    url: https://github.com/RewFa-CEO/EDP/discussions
     about: 使用问题、想法讨论、学术交流请到 Discussions，不要开 Issue
   - name: 🔒 Security Vulnerability / 安全漏洞
-    url: https://github.com/ai-nurmamat/EDP/security/advisories/new
+    url: https://github.com/RewFa-CEO/EDP/security/advisories/new
     about: 安全漏洞请走私有披露通道，禁止开公开 Issue。详见 SECURITY.md
