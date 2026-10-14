@@ -72,4 +72,4 @@ legacy reference only.
 
 ---
 
-[2.0.0]: https://github.com/ai-nurmamat/EDP/releases/tag/v2.0.0
+[2.0.0]: https://github.com/RewFa-CEO/EDP/releases/tag/v2.0.0

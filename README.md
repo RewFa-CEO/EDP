@@ -1,12 +1,12 @@
 # EDP — 期望域感知方法 V2.0（Expectation Domain Perception Method）
 
-[![Version](https://img.shields.io/badge/version-2.0-blue?logo=semver&logoColor=white)](https://github.com/ai-nurmamat/EDP/releases/tag/v2.0.0)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](https://github.com/ai-nurmamat/EDP/blob/master/pyproject.toml)
-[![License](https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white)](https://github.com/ai-nurmamat/EDP/blob/master/LICENSE)
-[![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?logo=codecov&logoColor=white)](https://github.com/ai-nurmamat/EDP/tree/master/tests)
-[![Tests](https://img.shields.io/badge/tests-155%20passing-brightgreen?logo=pytest&logoColor=white)](https://github.com/ai-nurmamat/EDP/tree/master/tests)
-[![GitHub stars](https://img.shields.io/github/stars/ai-nurmamat/EDP?style=social&logo=github)](https://github.com/ai-nurmamat/EDP/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ai-nurmamat/EDP?logo=git&logoColor=white)](https://github.com/ai-nurmamat/EDP/commits/master)
+[![Version](https://img.shields.io/badge/version-2.0-blue?logo=semver&logoColor=white)](https://github.com/RewFa-CEO/EDP/releases/tag/v2.0.0)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)](https://github.com/RewFa-CEO/EDP/blob/master/pyproject.toml)
+[![License](https://img.shields.io/badge/license-MIT-green?logo=opensourceinitiative&logoColor=white)](https://github.com/RewFa-CEO/EDP/blob/master/LICENSE)
+[![Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen?logo=codecov&logoColor=white)](https://github.com/RewFa-CEO/EDP/tree/master/tests)
+[![Tests](https://img.shields.io/badge/tests-155%20passing-brightgreen?logo=pytest&logoColor=white)](https://github.com/RewFa-CEO/EDP/tree/master/tests)
+[![GitHub stars](https://img.shields.io/github/stars/RewFa-CEO/EDP?style=social&logo=github)](https://github.com/RewFa-CEO/EDP/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/RewFa-CEO/EDP?logo=git&logoColor=white)](https://github.com/RewFa-CEO/EDP/commits/master)
 
 > **通用全域概率态势感知框架**
 >
@@ -16,24 +16,9 @@
 
 ---
 
-## ⚠️⚠️⚠️ 严重风险警示 ⚠️⚠️⚠️
-
-```
-本框架仅供学术研究与教育用途。它【不构成】任何投资建议、决策建议、
-交易指导或财务规划建议。
-
-1. 概率预测的不确定性：所有概率均为估计值，存在显著不确定性。
-2. 历史不代表未来：历史概率模式【不保证】未来结果。"黑天鹅"事件
-   不在模型覆盖范围内。
-3. 资金损失风险：AllocationEngine 输出的分配方案可能导致全部本金
-   损失。任何实际决策都存在重大风险。
-4. 模型局限性：框架依赖输入数据质量、域适配器的正确实现、以及
-   各引擎的数学假设。任何环节的错误都会传播到最终结果。
-5. 非专业建议：本框架的输出【不是】持牌专业人士的建议。在
-   做任何实际决策前，请咨询合格的专业人士。
-
-使用者须自行承担一切决策风险。
-```
+> [!IMPORTANT]
+> 本框架仅供学术研究与教育用途，不构成任何投资、决策或交易建议。
+> 完整风险提示见 [§8 免责声明](#8-免责声明-disclaimer)。
 
 ---
 
@@ -539,12 +524,15 @@ const result = engine.calculateTrueProbability({
 
 ## 8. 免责声明 Disclaimer
 
-**本框架仅供学术研究与教育用途。**
+**本框架仅供学术研究与教育用途。它【不构成】任何投资建议、决策建议、交易指导或财务规划建议。**
 
-- 本框架不构成任何投资建议或决策建议；
-- 使用本框架进行的任何决策由用户自行承担责任；
-- 作者不对使用本框架造成的任何损失负责；
-- 请遵守所在地区的法律法规。
+1. **概率预测的不确定性**：所有概率均为估计值，存在显著不确定性。
+2. **历史不代表未来**：历史概率模式【不保证】未来结果。"黑天鹅"事件不在模型覆盖范围内。
+3. **资金损失风险**：AllocationEngine 输出的分配方案可能导致全部本金损失。任何实际决策都存在重大风险。
+4. **模型局限性**：框架依赖输入数据质量、域适配器的正确实现、以及各引擎的数学假设。任何环节的错误都会传播到最终结果。
+5. **非专业建议**：本框架的输出【不是】持牌专业人士的建议。在做任何实际决策前，请咨询合格的专业人士。
+
+使用者须自行承担一切决策风险。请遵守所在地区的法律法规。
 
 ---
 
